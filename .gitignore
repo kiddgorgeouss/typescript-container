@@ -1,11 +1,13 @@
 # dependencies
-/scoreboard/node_modules
+/node_modules
 
 # production
 /build
 
 # misc
 .DS_Store
+LICENSE
+
 
 # logs
 *.log

@@ -1,0 +1,12 @@
+# dependencies
+/scoreboard/node_modules
+
+# production
+/build
+
+# misc
+.DS_Store
+
+# logs
+*.log
+
